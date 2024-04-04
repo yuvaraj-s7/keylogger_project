@@ -1,4 +1,4 @@
-PROJECT KEYLOGGER
+
 # Python Keylogger
 
 This is a simple keylogger built in Python. It captures keyboard inputs and logs them to a file.
